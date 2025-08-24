@@ -9,7 +9,6 @@ public class Invertedpyramid
             {
                 System.out.print(" ");
             }
-            int k=5;
             for(int j=1;j<=2*(n-i)-1;j++)
             {
                 System.out.print("*");
